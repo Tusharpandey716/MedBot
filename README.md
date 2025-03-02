@@ -21,11 +21,6 @@ MedBot is an AI-powered healthcare chatbot designed to provide real-time symptom
 - 🌎 **Multilingual Support** to cater to a global audience.
 - 🏥 **EHR Integration** for seamless communication with healthcare systems.
 
-## 🌍 Demo
-## 📽️ Demo Video  
-Watch the full demo of MedBot here: [MedBot Demo Video](YOUR_VIDEO_LINK_HERE)
-
-[![MedBot Demo]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg](https://drive.google.com/file/d/1XowJL2F5WbHhWcgA77G3D77BBj3qphhh/view?usp=drive_link))](YOUR_VIDEO_LINK_HERE)
 
 
 ## 📜 Installation & Setup
